@@ -1,4 +1,4 @@
-### Hi there! 👩‍💻
+### Hi, I'm Jenny Mai 👩‍💻
 🎓 Education: University of Illinois Urbana-Champaign 🇺🇸, and also at the University of Melbourne 🇦🇺 and Nanyang Technological University 🇸🇬<br>🛠️ Focus: Software Engineer & Data Scientist<br>🌐 Linkedin: https://linkedin.com/in/nhumai<br>📧 Email: nhumai2@illinois.edu or jennymai10@outlook.com
 
 ### 💻 Tech Stack:

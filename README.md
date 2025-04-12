@@ -6,10 +6,10 @@
 
 ### 📊 Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jennymai10&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jennymai10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jennymaidev&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jennymaidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="170" />
   <picture>
-    <source srcset="https://raw.githubusercontent.com/jennymai10/jennymai10/output/github-snake-dark.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/jennymai10/jennymai10/output/github-snake.svg" />
+    <source srcset="https://raw.githubusercontent.com/jennymaidev/jennymaidev/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jennymaidev/jennymaidev/output/github-snake.svg" />
   </picture>
 </div>
